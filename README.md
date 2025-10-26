@@ -1,0 +1,2 @@
+# AWARE-DRIVE-A-MULTIMODAL-REAL-TIME-DRIVER-DROWSINESS-DETECTION-AND-ALERT-SYSTEM
+The AWARE Drive project is a system that watches a driver to see if they are getting sleepy. It checks the eyes, mouth, head movement, emotions, heart rate, and light around the driver. If the driver looks tired, it gives warnings with voice, alarms, and safety messages. It also saves the data so it can be studied later.
